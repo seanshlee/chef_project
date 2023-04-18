@@ -39,9 +39,9 @@ with tabs[0]:
                     elif item1['expiryDate'] == today :
                         st.markdown(f"<h4>{item1['itemName']}   D-DAY</h4>", unsafe_allow_html=True)
                         st.error(f"유통기한 : {item1['expiryDate']}  ✅개수 : {item1['itemNum']}개",icon='📆')
-                    elif item2['expiryDate'] < today :
-                            st.markdown(f"<h4>{item2['itemName']}   {dday}</h4>", unsafe_allow_html=True)
-                            st.error(f"유통기한 : {item2['expiryDate']}  ✅개수 : {item2['itemNum']}개",icon='📆')    
+                    elif item1['expiryDate'] < today :
+                            st.markdown(f"<h4>{item1['itemName']}   {dday}</h4>", unsafe_allow_html=True)
+                            st.error(f"유통기한 : {item1['expiryDate']}  ✅개수 : {item1['itemNum']}개",icon='📆')    
                     else:
                         st.markdown(f"<h4>{item1['itemName']}   {dday}</h4>", unsafe_allow_html=True)
                         st.info(f"유통기한 : {item1['expiryDate']}  ✅개수 : {item1['itemNum']}개",icon='📆')
