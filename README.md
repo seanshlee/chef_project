@@ -26,11 +26,11 @@
     * __재료 데이터 (ingred)__ : 이용되는 모든 재료 코드 
 
 ## 🖥 기술 스택
-* Front
+* __Front__
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=black"> (Python 기반 AIops 도구)
 
-* Backend
+* __Backend__
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
 
@@ -59,8 +59,8 @@
 
 
 ## 개발개요
-* 개발 기반 : 2023-04-11 ~ 2023-04-17 (1주)
-* 개발 인원 : 3명
+* __기간__ : 2023-04-11 ~ 2023-04-17 (1주)
+* __인원__ : 3명
 
 
 ## 웹 사이트 시안영상
