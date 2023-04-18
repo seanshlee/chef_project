@@ -34,12 +34,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
 
-## 개발기간
-* 2023-04-11 ~ 2023-04-17 (1주)
-
-## 웹 사이트 시안영상
-https://user-images.githubusercontent.com/95599133/232660671-5f589f89-6f03-4cce-9505-683e9396e8bb.mp4
-
 ## 📚 파일 구조
 
 ##### 📦chef_project-main
@@ -58,8 +52,16 @@ https://user-images.githubusercontent.com/95599133/232660671-5f589f89-6f03-4cce-
 #####  ┗ recipe.py : 여러 페이지를 위한 기능을 클래스 별로 나누어 구현
  
  
- 
  ## 📑 DB 테이블 구조
  
  #### Docker를 이용한 DB 공유
 ![image](https://user-images.githubusercontent.com/88521667/232651653-2ffee586-b89f-48f7-bca2-c5825a47a2f3.png)
+
+
+## 개발개요
+* 개발 기반 : 2023-04-11 ~ 2023-04-17 (1주)
+* 개발 인원 : 3명
+
+
+## 웹 사이트 시안영상
+https://user-images.githubusercontent.com/95599133/232660671-5f589f89-6f03-4cce-9505-683e9396e8bb.mp4
