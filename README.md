@@ -1,4 +1,4 @@
-# chef_project
+# 👨‍🍳 chef_project
 
 '농림수산식품교육문화정보원' 공공데이터를 활용하여 사용자에게 요리 레시피를 알력주는 웹 입니다. 
 
@@ -25,7 +25,7 @@
   * __레시피 재료 정보 (recipeIngred)__ : 레시피별 사용되는 재료의 양과 종류 등의 데이터
     * __재료 데이터 (ingred)__ : 이용되는 모든 재료 코드 
 
-## 기술 스택
+## 🖥 기술 스택
 * Front
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=black"> (Python 기반 AIops 도구)
