@@ -37,20 +37,19 @@
 ## 📚 파일 구조
 
 ##### 📦chef_project-main
-
-#####  ┣ 📂pages
  
-#####  ┃ ┣ 1_모두의 레시피.py
+#####  ┣ MainHome.py : 메인페이지
+ 
+ #####  ┣ 📂pages
+ 
+#####  ┃ ┣ 1_모두의 레시피.py 
  
 #####  ┃ ┗ 2_나의 냉장고.py
+#####  ┣ foodDetail.py : 음식 세부 조리법 페이지 구현
  
-#####  ┣ foodDetail.py
+#####  ┣ login.py : 로그인, 회원가입 기능 구현
  
-#####  ┣ login.py
- 
-#####  ┣ MainHome.py
-#####  ┗ recipe.py
- 
+#####  ┗ recipe.py : 여러 페이지를 위한 기능을 클래스 별로 나누어 구현
  
  
  
