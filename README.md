@@ -27,9 +27,12 @@
 
 ## 기술 스택
 * Front
-  * Streamlit : Python 기반 AIops 도구
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=black"> (Python 기반 AIops 도구)
+
 * Backend
-  * Python, docker, mySQL
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
 
 ## 개발기간
 * 2023-04-11 ~ 2023-04-17 (1주)
